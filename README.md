@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository
 `git clone https://github.com/fuzail-ahmed/members.git`
 2. Install the packages by `npm i`
-3. Change the configurations according to your convinence. change the key's used in the applications which resides in the `config/keys.js`
+3. Change the configurations according to your convinence. change the key's used in the applications which resides in the `config/dev.env.js`
 4. Done. :) 
 5. Now just run it `npm start` or `nodemon start`
 
